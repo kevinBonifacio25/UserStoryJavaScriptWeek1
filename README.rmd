@@ -1,4 +1,4 @@
-# sistema_interactivo
+### sistema_interactivo
 
 ## Description
 This project implements a functional JavaScript program that interacts with the user by requesting their name and age. It validates the input and displays dynamic messages based on the established conditions. The objective is to reinforce concepts such as variable declaration, data types, use of functions like `prompt()`, `alert()`, `console.log()`, and `console.error()`, conditionals, and best practices in naming.
